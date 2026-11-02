@@ -1,0 +1,5 @@
+nproc=1
+cpu=Intel(R) Xeon(R) Processor @ 2.80GHz
+gcc=gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+kernel=Linux 6.18.44-fc-v185
+repeats=20

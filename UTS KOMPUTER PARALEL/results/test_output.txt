@@ -1,0 +1,6 @@
+[1] Tes manual (citra konstan 5x5 bernilai 100)
+    selesai
+[2] Tes acak vs referensi naif (serial, pthreads, openmp)
+    selesai
+
+HASIL: 534 pemeriksaan, 0 gagal -> SEMUA LULUS
